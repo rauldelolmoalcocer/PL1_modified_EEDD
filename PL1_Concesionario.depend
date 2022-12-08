@@ -1,0 +1,636 @@
+# depslib dependency file v1.0
+1666782112 source:c:\users\rauld\downloads\pl1_concesionario\src\interactionuiutils.cpp
+	"InteractionUIUtils.h"
+	<iostream>
+	<string>
+
+1666782061 c:\users\rauld\downloads\pl1_concesionario\include\interactionuiutils.h
+	<iostream>
+	<string>
+
+1666782710 source:c:\users\rauld\downloads\pl1_concesionario\main.cpp
+	<iostream>
+	<string>
+	<InteractionUIUtils.h>
+	<stdlib.h>
+	<windows.h>
+	<Camion.h>
+
+1666782551 c:\users\rauld\downloads\pl1_concesionario\include\camion.h
+	<string>
+
+1667126755 source:c:\users\rauld\desktop\pl1\pl1-eedd\pl1-eedd\main.cpp
+	<iostream>
+	<string>
+	<InteractionUIUtils.h>
+	<Cola.h>
+	<stdlib.h>
+	<windows.h>
+	<Camion.h>
+	"Vehiculo.h"
+
+1667128611 c:\users\rauld\desktop\pl1\pl1-eedd\pl1-eedd\include\interactionuiutils.h
+	<iostream>
+	<string>
+
+1666779627 c:\users\rauld\desktop\pl1\pl1-eedd\pl1-eedd\include\camion.h
+	<string>
+
+1666794705 source:c:\users\rauld\desktop\pl1\pl1-eedd\pl1-eedd\src\camion.cpp
+	"Camion.h"
+	<string>
+	<iostream>
+
+1667130253 source:c:\users\rauld\desktop\pl1\pl1-eedd\pl1-eedd\src\interactionuiutils.cpp
+	"InteractionUIUtils.h"
+	<iostream>
+	<string>
+	<windows.h>
+
+1666860527 c:\users\rauld\desktop\pl1\pl1-eedd\pl1-eedd\include\vehiculo.h
+	<string>
+	<iostream>
+
+1667125949 source:c:\users\rauld\desktop\pl1\pl1-eedd\pl1-eedd\src\nodo.cpp
+	"Nodo.h"
+	<string>
+	<iostream>
+	"Vehiculo.h"
+
+1667126580 c:\users\rauld\desktop\pl1\pl1-eedd\pl1-eedd\include\nodo.h
+	<iostream>
+	<string>
+	"Vehiculo.h"
+
+1666794240 source:c:\users\rauld\desktop\pl1\pl1-eedd\pl1-eedd\src\pila.cpp
+	"Pila.h"
+
+1666794798 c:\users\rauld\desktop\pl1\pl1-eedd\pl1-eedd\include\pila.h
+
+1667126531 c:\users\rauld\desktop\pl1\pl1-eedd\pl1-eedd\include\cola.h
+	"Nodo.h"
+	"Vehiculo.h"
+	<string>
+	<iostream>
+
+1667053446 source:c:\users\rauld\desktop\pl1\pl1-eedd\pl1-eedd\src\vehiculo.cpp
+	"Vehiculo.h"
+	<string>
+	<iostream>
+	<Nodo.h>
+
+1667126531 source:c:\users\rauld\desktop\pl1\pl1-eedd\pl1-eedd\include\cola.h
+	"Nodo.h"
+	"Vehiculo.h"
+	<string>
+	<iostream>
+
+1667130086 source:c:\users\rauld\desktop\pl1\pl1-eedd\pl1-eedd\src\cola.cpp
+	"Cola.h"
+	"Nodo.h"
+	"Vehiculo.h"
+	<iostream>
+	<windows.h>
+	"InteractionUIUtils.h"
+
+1667130568 source:c:\users\rauld\desktop\pl1-eedd-master\pl1-eedd-master\include\cola.h
+	"Nodo.h"
+	"Vehiculo.h"
+	<string>
+	<iostream>
+
+1667130568 c:\users\rauld\desktop\pl1-eedd-master\pl1-eedd-master\include\nodo.h
+	<iostream>
+	<string>
+	"Vehiculo.h"
+
+1667130568 c:\users\rauld\desktop\pl1-eedd-master\pl1-eedd-master\include\vehiculo.h
+	<string>
+	<iostream>
+
+1667220389 source:c:\users\rauld\desktop\pl1-eedd-master\pl1-eedd-master\main.cpp
+	<iostream>
+	<string>
+	<InteractionUIUtils.h>
+	<Cola.h>
+	<stdlib.h>
+	<windows.h>
+	<Camion.h>
+	"Vehiculo.h"
+	"Fabrica.h"
+	"FabricaService.h"
+
+1667130568 c:\users\rauld\desktop\pl1-eedd-master\pl1-eedd-master\include\interactionuiutils.h
+	<iostream>
+	<string>
+
+1667130568 c:\users\rauld\desktop\pl1-eedd-master\pl1-eedd-master\include\cola.h
+	"Nodo.h"
+	"Vehiculo.h"
+	<string>
+	<iostream>
+
+1667130568 c:\users\rauld\desktop\pl1-eedd-master\pl1-eedd-master\include\camion.h
+	<string>
+
+1667130568 source:c:\users\rauld\desktop\pl1-eedd-master\pl1-eedd-master\src\camion.cpp
+	"Camion.h"
+	<string>
+	<iostream>
+
+1667130568 source:c:\users\rauld\desktop\pl1-eedd-master\pl1-eedd-master\src\cola.cpp
+	"Cola.h"
+	"Nodo.h"
+	"Vehiculo.h"
+	<iostream>
+	<windows.h>
+	"InteractionUIUtils.h"
+
+1667130568 source:c:\users\rauld\desktop\pl1-eedd-master\pl1-eedd-master\src\interactionuiutils.cpp
+	"InteractionUIUtils.h"
+	<iostream>
+	<string>
+	<windows.h>
+
+1667130568 source:c:\users\rauld\desktop\pl1-eedd-master\pl1-eedd-master\src\nodo.cpp
+	"Nodo.h"
+	<string>
+	<iostream>
+	"Vehiculo.h"
+
+1667130568 source:c:\users\rauld\desktop\pl1-eedd-master\pl1-eedd-master\src\pila.cpp
+	"Pila.h"
+
+1667130568 c:\users\rauld\desktop\pl1-eedd-master\pl1-eedd-master\include\pila.h
+
+1667130568 source:c:\users\rauld\desktop\pl1-eedd-master\pl1-eedd-master\src\vehiculo.cpp
+	"Vehiculo.h"
+	<string>
+	<iostream>
+	<Nodo.h>
+
+1667215972 source:c:\users\rauld\desktop\pl1-eedd-master\pl1-eedd-master\src\fabrica.cpp
+	"Fabrica.h"
+	"Cola.h"
+	<iostream>
+	<string>
+
+1667216604 c:\users\rauld\desktop\pl1-eedd-master\pl1-eedd-master\include\fabrica.h
+	"Cola.h"
+	<iostream>
+	<string>
+
+1667228330 source:c:\users\rauld\desktop\pl1-eedd-master\pl1-eedd-master\src\fabricaservice.cpp
+	"FabricaService.h"
+	<iostream>
+	"Vehiculo.h"
+	<string>
+	"Cola.h"
+	<Fabrica.h>
+	<stdlib.h>
+	<ctime>
+	<stdio.h>
+
+1667220741 c:\users\rauld\desktop\pl1-eedd-master\pl1-eedd-master\include\fabricaservice.h
+	<iostream>
+	"Vehiculo.h"
+	<string>
+	"Cola.h"
+	<Fabrica.h>
+
+1667377070 source:c:\users\rauld\desktop\pl1\nueva carpeta\pl1-eedd\include\cola.h
+	"Nodo.h"
+	"Vehiculo.h"
+	<string>
+	<iostream>
+
+1667375300 c:\users\rauld\desktop\pl1\nueva carpeta\pl1-eedd\include\nodo.h
+	<iostream>
+	<string>
+	"Vehiculo.h"
+
+1668065421 c:\users\rauld\desktop\pl1\nueva carpeta\pl1-eedd\include\vehiculo.h
+	<string>
+	<iostream>
+
+1668187255 source:c:\users\rauld\desktop\pl1\nueva carpeta\pl1-eedd\main.cpp
+	<iostream>
+	<string>
+	<InteractionUIUtils.h>
+	<Cola.h>
+	<stdlib.h>
+	<windows.h>
+	<Camion.h>
+	"Vehiculo.h"
+	"Fabrica.h"
+	"FabricaService.h"
+	<time.h>
+	"Pila.h"
+	"Zona.h"
+	"Gestor.h"
+	"Fabrica.h"
+
+1667375300 c:\users\rauld\desktop\pl1\nueva carpeta\pl1-eedd\include\interactionuiutils.h
+	<iostream>
+	<string>
+
+1667377070 c:\users\rauld\desktop\pl1\nueva carpeta\pl1-eedd\include\cola.h
+	"Nodo.h"
+	"Vehiculo.h"
+	<string>
+	<iostream>
+
+1668185684 c:\users\rauld\desktop\pl1\nueva carpeta\pl1-eedd\include\camion.h
+	<string>
+	"Pila.h"
+
+1667375905 c:\users\rauld\desktop\pl1\nueva carpeta\pl1-eedd\include\fabrica.h
+	"Cola.h"
+	<iostream>
+	<string>
+
+1667380215 c:\users\rauld\desktop\pl1\nueva carpeta\pl1-eedd\include\fabricaservice.h
+	<iostream>
+	"Vehiculo.h"
+	<string>
+	"Cola.h"
+	<Fabrica.h>
+
+1668185697 source:c:\users\rauld\desktop\pl1\nueva carpeta\pl1-eedd\src\camion.cpp
+	"Camion.h"
+	<string>
+	<iostream>
+	"Pila.h"
+
+1667377068 source:c:\users\rauld\desktop\pl1\nueva carpeta\pl1-eedd\src\cola.cpp
+	"Cola.h"
+	"Nodo.h"
+	"Vehiculo.h"
+	<iostream>
+	<windows.h>
+	"InteractionUIUtils.h"
+
+1667376025 source:c:\users\rauld\desktop\pl1\nueva carpeta\pl1-eedd\src\fabrica.cpp
+	"Fabrica.h"
+	"Cola.h"
+	<iostream>
+	<string>
+
+1667375300 source:c:\users\rauld\desktop\pl1\nueva carpeta\pl1-eedd\src\interactionuiutils.cpp
+	"InteractionUIUtils.h"
+	<iostream>
+	<string>
+	<windows.h>
+
+1667375300 source:c:\users\rauld\desktop\pl1\nueva carpeta\pl1-eedd\src\nodo.cpp
+	"Nodo.h"
+	<string>
+	<iostream>
+	"Vehiculo.h"
+
+1668100497 source:c:\users\rauld\desktop\pl1\nueva carpeta\pl1-eedd\src\pila.cpp
+	"Pila.h"
+	"Vehiculo.h"
+	"Nodo.h"
+	<iostream>
+
+1668100513 c:\users\rauld\desktop\pl1\nueva carpeta\pl1-eedd\include\pila.h
+	<Nodo.h>
+
+1668065529 source:c:\users\rauld\desktop\pl1\nueva carpeta\pl1-eedd\src\vehiculo.cpp
+	"Vehiculo.h"
+	<string>
+	<iostream>
+	<Nodo.h>
+
+1667376403 source:c:\users\rauld\desktop\pl1\nueva carpeta\pl1-eedd\src\fabricaservice.cpp
+	"FabricaService.h"
+	<iostream>
+	"Vehiculo.h"
+	<string>
+	"Cola.h"
+	<Fabrica.h>
+	<stdlib.h>
+	<ctime>
+	<stdio.h>
+	<windows.h>
+
+1667377070 source:c:\users\rauld\desktop\pl1\v2\pl1-eedd\include\cola.h
+	"Nodo.h"
+	"Vehiculo.h"
+	<string>
+	<iostream>
+
+1667375300 c:\users\rauld\desktop\pl1\v2\pl1-eedd\include\nodo.h
+	<iostream>
+	<string>
+	"Vehiculo.h"
+
+1667375300 c:\users\rauld\desktop\pl1\v2\pl1-eedd\include\vehiculo.h
+	<string>
+	<iostream>
+
+1667376987 source:c:\users\rauld\desktop\pl1\v2\pl1-eedd\main.cpp
+	<iostream>
+	<string>
+	<InteractionUIUtils.h>
+	<Cola.h>
+	<stdlib.h>
+	<windows.h>
+	<Camion.h>
+	"Vehiculo.h"
+	"Fabrica.h"
+	"FabricaService.h"
+	<time.h>
+	"Pila.h"
+
+1667375300 c:\users\rauld\desktop\pl1\v2\pl1-eedd\include\interactionuiutils.h
+	<iostream>
+	<string>
+
+1667377070 c:\users\rauld\desktop\pl1\v2\pl1-eedd\include\cola.h
+	"Nodo.h"
+	"Vehiculo.h"
+	<string>
+	<iostream>
+
+1667380181 c:\users\rauld\desktop\pl1\v2\pl1-eedd\include\camion.h
+	<string>
+	"Pila.h"
+
+1667375905 c:\users\rauld\desktop\pl1\v2\pl1-eedd\include\fabrica.h
+	"Cola.h"
+	<iostream>
+	<string>
+
+1667380215 c:\users\rauld\desktop\pl1\v2\pl1-eedd\include\fabricaservice.h
+	<iostream>
+	"Vehiculo.h"
+	<string>
+	"Cola.h"
+	<Fabrica.h>
+
+1667375300 c:\users\rauld\desktop\pl1\v2\pl1-eedd\include\pila.h
+	<Nodo.h>
+
+1667380206 source:c:\users\rauld\desktop\pl1\v2\pl1-eedd\src\camion.cpp
+	"Camion.h"
+	<string>
+	<iostream>
+	"Pila.h"
+
+1667377068 source:c:\users\rauld\desktop\pl1\v2\pl1-eedd\src\cola.cpp
+	"Cola.h"
+	"Nodo.h"
+	"Vehiculo.h"
+	<iostream>
+	<windows.h>
+	"InteractionUIUtils.h"
+
+1667376025 source:c:\users\rauld\desktop\pl1\v2\pl1-eedd\src\fabrica.cpp
+	"Fabrica.h"
+	"Cola.h"
+	<iostream>
+	<string>
+
+1667376403 source:c:\users\rauld\desktop\pl1\v2\pl1-eedd\src\fabricaservice.cpp
+	"FabricaService.h"
+	<iostream>
+	"Vehiculo.h"
+	<string>
+	"Cola.h"
+	<Fabrica.h>
+	<stdlib.h>
+	<ctime>
+	<stdio.h>
+	<windows.h>
+
+1667375300 source:c:\users\rauld\desktop\pl1\v2\pl1-eedd\src\interactionuiutils.cpp
+	"InteractionUIUtils.h"
+	<iostream>
+	<string>
+	<windows.h>
+
+1667375300 source:c:\users\rauld\desktop\pl1\v2\pl1-eedd\src\nodo.cpp
+	"Nodo.h"
+	<string>
+	<iostream>
+	"Vehiculo.h"
+
+1667375300 source:c:\users\rauld\desktop\pl1\v2\pl1-eedd\src\pila.cpp
+	"Pila.h"
+	"Vehiculo.h"
+	"Nodo.h"
+	<iostream>
+
+1667375300 source:c:\users\rauld\desktop\pl1\v2\pl1-eedd\src\vehiculo.cpp
+	"Vehiculo.h"
+	<string>
+	<iostream>
+	<Nodo.h>
+
+1667379820 source:c:\users\rauld\desktop\pl1\v2\pl1-eedd\src\almacen.cpp
+	"Almacen.h"
+
+1667380142 c:\users\rauld\desktop\pl1\v2\pl1-eedd\include\almacen.h
+
+1668182303 source:c:\users\rauld\desktop\pl1\nueva carpeta\pl1-eedd\src\zona.cpp
+	"Zona.h"
+	"FabricaService.h"
+	<iostream>
+	"Vehiculo.h"
+	<string>
+	"Cola.h"
+	<Fabrica.h>
+	<stdlib.h>
+	<ctime>
+	<stdio.h>
+	<windows.h>
+
+1668182267 c:\users\rauld\desktop\pl1\nueva carpeta\pl1-eedd\include\zona.h
+	<string>
+	"Vehiculo.h"
+	"Camion.h"
+	"Cola.h"
+
+1668234395 source:c:\users\rauld\desktop\pl1\nueva carpeta\pl1-eedd\src\gestor.cpp
+	"Gestor.h"
+	<iostream>
+	"Fabrica.h"
+	<string>
+	<InteractionUIUtils.h>
+	<Cola.h>
+	<stdlib.h>
+	<windows.h>
+	<Camion.h>
+	"Vehiculo.h"
+	"FabricaService.h"
+	<time.h>
+	"Pila.h"
+	"Zona.h"
+
+1668182046 c:\users\rauld\desktop\pl1\nueva carpeta\pl1-eedd\include\gestor.h
+	"Fabrica.h"
+	"Zona.h"
+	"Cola.h"
+
+1668247452 source:c:\users\aldai\documents\codeblocks\pl1-eedd-master\include\cola.h
+	"Nodo.h"
+	"Vehiculo.h"
+	<string>
+	<iostream>
+
+1668247452 c:\users\aldai\documents\codeblocks\pl1-eedd-master\include\nodo.h
+	<iostream>
+	<string>
+	"Vehiculo.h"
+
+1668247452 c:\users\aldai\documents\codeblocks\pl1-eedd-master\include\vehiculo.h
+	<string>
+	<iostream>
+
+1670419876 source:c:\users\aldai\documents\codeblocks\pl1-eedd-master\main.cpp
+	<iostream>
+	<string>
+	<InteractionUIUtils.h>
+	<Cola.h>
+	<stdlib.h>
+	<windows.h>
+	<Camion.h>
+	"Vehiculo.h"
+	"Fabrica.h"
+	"FabricaService.h"
+	<time.h>
+	"Pila.h"
+	"Zona.h"
+	"Gestor.h"
+	"Fabrica.h"
+
+1670325849 c:\users\aldai\documents\codeblocks\pl1-eedd-master\include\interactionuiutils.h
+	<iostream>
+	<string>
+
+1668247452 c:\users\aldai\documents\codeblocks\pl1-eedd-master\include\cola.h
+	"Nodo.h"
+	"Vehiculo.h"
+	<string>
+	<iostream>
+
+1668247452 c:\users\aldai\documents\codeblocks\pl1-eedd-master\include\camion.h
+	<string>
+	"Pila.h"
+
+1668247452 c:\users\aldai\documents\codeblocks\pl1-eedd-master\include\pila.h
+	<Nodo.h>
+
+1668247452 c:\users\aldai\documents\codeblocks\pl1-eedd-master\include\fabrica.h
+	"Cola.h"
+	<iostream>
+	<string>
+
+1668247452 c:\users\aldai\documents\codeblocks\pl1-eedd-master\include\fabricaservice.h
+	<iostream>
+	"Vehiculo.h"
+	<string>
+	"Cola.h"
+	<Fabrica.h>
+
+1668247452 c:\users\aldai\documents\codeblocks\pl1-eedd-master\include\zona.h
+	<string>
+	"Vehiculo.h"
+	"Camion.h"
+	"Cola.h"
+
+1668247452 c:\users\aldai\documents\codeblocks\pl1-eedd-master\include\gestor.h
+	"Fabrica.h"
+	"Zona.h"
+	"Cola.h"
+
+1670420465 source:c:\users\aldai\documents\codeblocks\pl1-eedd-master\src\camion.cpp
+	"Camion.h"
+	<string>
+	<iostream>
+	"Pila.h"
+
+1670364305 source:c:\users\aldai\documents\codeblocks\pl1-eedd-master\src\cola.cpp
+	"Cola.h"
+	"Nodo.h"
+	"Vehiculo.h"
+	<iostream>
+	<windows.h>
+	"InteractionUIUtils.h"
+
+1670417301 source:c:\users\aldai\documents\codeblocks\pl1-eedd-master\src\fabrica.cpp
+	"Fabrica.h"
+	"Cola.h"
+	<iostream>
+	<string>
+	<stdio.h>
+	<windows.h>
+
+1670419058 source:c:\users\aldai\documents\codeblocks\pl1-eedd-master\src\fabricaservice.cpp
+	"FabricaService.h"
+	<iostream>
+	"Vehiculo.h"
+	<string>
+	"Cola.h"
+	<Fabrica.h>
+	<stdlib.h>
+	<ctime>
+	<stdio.h>
+	<windows.h>
+
+1670420557 source:c:\users\aldai\documents\codeblocks\pl1-eedd-master\src\gestor.cpp
+	"Gestor.h"
+	<iostream>
+	"Fabrica.h"
+	<string>
+	<InteractionUIUtils.h>
+	<Cola.h>
+	<stdlib.h>
+	<windows.h>
+	<Camion.h>
+	"Vehiculo.h"
+	"FabricaService.h"
+	<time.h>
+	"Pila.h"
+	"Zona.h"
+
+1670417492 source:c:\users\aldai\documents\codeblocks\pl1-eedd-master\src\interactionuiutils.cpp
+	"InteractionUIUtils.h"
+	<iostream>
+	<string>
+	<windows.h>
+
+1670353433 source:c:\users\aldai\documents\codeblocks\pl1-eedd-master\src\nodo.cpp
+	"Nodo.h"
+	<string>
+	<iostream>
+	"Vehiculo.h"
+
+1670353578 source:c:\users\aldai\documents\codeblocks\pl1-eedd-master\src\pila.cpp
+	"Pila.h"
+	"Vehiculo.h"
+	"Nodo.h"
+	<iostream>
+
+1670420147 source:c:\users\aldai\documents\codeblocks\pl1-eedd-master\src\vehiculo.cpp
+	"Vehiculo.h"
+	<string>
+	<iostream>
+	<Nodo.h>
+	<windows.h>
+
+1670419979 source:c:\users\aldai\documents\codeblocks\pl1-eedd-master\src\zona.cpp
+	"Zona.h"
+	"FabricaService.h"
+	<iostream>
+	"Vehiculo.h"
+	<string>
+	"Cola.h"
+	<Fabrica.h>
+	<stdlib.h>
+	<ctime>
+	<stdio.h>
+	<windows.h>
+

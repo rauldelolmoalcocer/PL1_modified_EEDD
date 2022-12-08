@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1666610575 source:c:\users\rauld\downloads\pl1-eedd\main.cpp
+	<iostream>
+	<string>
+	<InteractionUIUtils.h>
+	<stdlib.h>
+	<windows.h>
+
+1666608158 c:\users\rauld\downloads\pl1-eedd\include\interactionuiutils.h
+	<iostream>
+	<string>
+
+1666610824 source:c:\users\rauld\downloads\pl1-eedd\src\interactionuiutils.cpp
+	"InteractionUIUtils.h"
+	<iostream>
+	<string>
+
+1666610575 source:c:\users\rauld\downloads\practicalabeedd\pl1-eedd\main.cpp
+	<iostream>
+	<string>
+	<InteractionUIUtils.h>
+	<stdlib.h>
+	<windows.h>
+
